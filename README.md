@@ -1,3 +1,5 @@
+<img src="https://github.com/Archiusx/BIT-Node-Learning-Platform/blob/main/bitnodelogo.jpeg?raw=true" alt="BIT Node Logo" width="180" />
+
 # 🎓 BIT-3rd-Sem-CSE-Academic-Portal
 
 > A component-driven academic and development hub built specifically for 3rd Semester Computer Science and Engineering students at BIT Wardha. This portal serves as the primary educational resource and development environment.
@@ -62,16 +64,18 @@ This repository contains the source code for the public-facing components of the
 
 ### Setup Instructions
 
-1.  **Clone the repository:**
+1. **Clone the repository:**
     ```bash
     git clone [YOUR_REPOSITORY_URL]
     cd BIT-3rd-Sem-CSE-Academic-Portal
     ```
-2.  **Install Dependencies:** (Assuming a `package.json` exists for any tooling or Node backend)
+
+2. **Install Dependencies:** (Assuming a `package.json` exists for any tooling or Node backend)
     ```bash
     npm install
     ```
-3.  **Run Locally (via Firebase):**
+
+3. **Run Locally (via Firebase):**
     ```bash
     firebase serve --only hosting
     # Access the local server at the provided URL (e.g., http://localhost:5000)
@@ -84,7 +88,3 @@ This repository contains the source code for the public-facing components of the
 This project is released under the **MIT License**. For full terms, please see the `LICENSE` file.
 
 **Copyright (c) 2025 BIT 3rd Sem CSE Team**
-
----
-
-Would you like the full text for the **MIT License** to paste into your `LICENSE` file before you finalize the commit?
